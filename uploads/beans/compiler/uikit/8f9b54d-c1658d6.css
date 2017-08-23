@@ -5288,6 +5288,9 @@ article header > .tm-article-image:first-child {
 .tm-main {
   background-color: white;
 }
+a {
+  color: #33cc33;
+}
 h1 {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -5308,6 +5311,9 @@ p {
 }
 .tm-logo {
   max-width: 128px;
+}
+.tm-article-content h2 {
+  color: black;
 }
 .tm-widget.uk-panel.widget_text.text-3 {
   font-family: 'Open Sans', sans-serif;
